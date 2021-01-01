@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Contact" representedClassName="EContact" syncable="YES" codeGenerationType="class">
+        <attribute name="adress" attributeType="String"/>
+        <attribute name="email" attributeType="String"/>
+        <attribute name="firstName" attributeType="String"/>
+        <attribute name="phoneNumber" attributeType="String"/>
+        <attribute name="secondName" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Contact" positionX="-54" positionY="-9" width="128" height="118"/>
+    </elements>
+</model>
